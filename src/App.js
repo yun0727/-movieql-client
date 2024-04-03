@@ -6,8 +6,8 @@ export default function App(){
   return (
   <BrowserRouter>
   <Routes>
-    <Route path="/" element={<Movies/>} />
-    <Route path="/movies/:id" element={<Movie/>} />
+    <Route path={process.env.PUBLIC_URL+"/" }  element={<Movies/>} />
+    <Route path={process.env.PUBLIC_URL+"/movies/:id"} element={<Movie/>} />
   </Routes>
   </BrowserRouter>)
 }

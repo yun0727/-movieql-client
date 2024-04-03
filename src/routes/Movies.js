@@ -80,7 +80,7 @@ export default function Movies() {
       <MoviesGrid>
         {data?.allMovies?.map((movie) => (
           <PosterContainer key={movie.id}>
-            <Link to={`/movies/${movie.id}`}>
+            <Link to={`${process.env.PUBLIC_URL}/movies/${movie.id}`}>
               <PosterBg background={movie.medium_cover_image} />
             </Link>
           </PosterContainer>
