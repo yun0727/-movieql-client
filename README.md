@@ -1,11 +1,11 @@
 # GraphQL로 영화 웹 앱 만들기
 
 <p align="center">
-<!-- <img src="./img/chromeweb.png" height="215px" width="300px"> -->
+<img src="./src/graphql.png" height="215px" width="300px">
 </p>
 
 ## Chrome Web
-> 개발 기간 : 2024.04.01
+> 개발 기간 : 2024.04.01 ~ 2024.04.03
 ## Deploy
 > https://yun0727.github.io/Vanilajs_final/
 
