@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://yun0727/github.io/movieql-client/static/js/main.2d88c845.js",
-    "index.html": "https://yun0727/github.io/movieql-client/index.html",
-    "main.2d88c845.js.map": "https://yun0727/github.io/movieql-client/static/js/main.2d88c845.js.map"
+    "main.js": "https://yun0727.github.io/movieql-client/static/js/main.a96e4379.js",
+    "index.html": "https://yun0727.github.io/movieql-client/index.html",
+    "main.a96e4379.js.map": "https://yun0727.github.io/movieql-client/static/js/main.a96e4379.js.map"
   },
   "entrypoints": [
-    "static/js/main.2d88c845.js"
+    "static/js/main.a96e4379.js"
   ]
 }
