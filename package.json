@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yun0727/github.io/movieql-client",
+  "homepage": "https://yun0727.github.io/movieql-client",
   "name": "movieql-client",
   "version": "0.1.0",
   "private": true,
@@ -22,8 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

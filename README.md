@@ -4,10 +4,8 @@
 <img src="./src/graphql.png" height="215px" width="300px">
 </p>
 
-## Chrome Web
+## Movie Web
 > 개발 기간 : 2024.04.01 ~ 2024.04.03
-## Deploy
-> https://yun0727.github.io/Vanilajs_final/
 
 <br/>
 
